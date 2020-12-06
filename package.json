@@ -1,0 +1,15 @@
+{
+  "name": "simple-megamenu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Felipe-Antoniati/simple-megamenu.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
